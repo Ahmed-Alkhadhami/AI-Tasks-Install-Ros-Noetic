@@ -1,5 +1,5 @@
  # AI-Tasks-01-02
-# AI-Tasks-01-02  , Install Ros Noetic on Ubuntu 20.04  :
+# Install Ros Noetic on Ubuntu 20.04  :
 
 Configure your Ubuntu repositories to allow "restricted," "universe," and "multiverse." You can follow the Ubuntu guide for instructions on doing this.
 
