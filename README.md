@@ -1,1 +1,2 @@
-# AI-Tasks-01-02
+# Install of ROS Noetic on Ubuntu 
+Configure your Ubuntu repositories
