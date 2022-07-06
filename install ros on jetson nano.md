@@ -34,3 +34,5 @@ You can edit this file to add the ROS packages for your application.
 # setupCatkinWorkspace.sh Usage:
 `$ ./setupCatkinWorkspace.sh [_optionalWorkspaceName_]`
 where optionalWorkspaceName is the name and path of the workspace to be used. The default workspace name is `~/catkin_ws`.
+[![image](https://user-images.githubusercontent.com/108361853/177659139-8f181780-c73e-4b0e-8595-b4e6b36154bf.png)
+](url)
